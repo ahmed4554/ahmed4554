@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ahmed4554/ahmed4554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed, a Flutter developer from Cairo, Egypt. I love creating beautiful and functional apps for different platforms using Flutter and Dart.
 
-Here are some ideas to get you started:
+## My Flutter projects 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the apps I have built using Flutter:
+- **Down Sydnrome System For Educational And Healthcare Purposes**: A Full System for Children with down syndrome.
+- **Youtube Donwloader**: An App you can use to download videos and audios from youtube to your phone.
+- **Movies-App**: An App gets you Movies details from an API.
+
+
+You can find the source code and more details about these projects on my GitHub profile.
+
+## How to reach me 📫
+
+If you want to contact me or collaborate with me on a project, you can reach me through:
+
+- Email: abdelkhabirahmed@gmail.com
+- Twitter: [@ahmedab5beer5](https://twitter.com/ahmedab5beer5)
+- LinkedIn: [Ahmed Abd El-khabir](www.linkedin.com/in/ahmed-abd-el-khabir-306b04254)
+
+## More about me 😄
+
+Some of my goals and achievements are:
+
+- I have completed the Flutter Development Bootcamp by Abdullah Mansour on Udemy.
+- I have worked on many apps with Flutter.
+
+Some of my interests and hobbies are:
+
+- I enjoy learning new things and exploring new technologies related to Flutter and mobile development.
+- I like reading books and articles about programming, design, entrepreneurship, and personal development.
+- I love playing video games, especially FIFA and Call of Duty.
+
+Thanks for visiting my profile. Have a nice day! 😊
+
