@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ahmed, a Flutter developer from Cairo, Egypt. I love creating beautiful and functional apps for different platforms using Flutter and Dart.
+I'm Ahmed, a Flutter developer from Mansoura, Egypt. I am interesting in creating and developing applications for different platforms using Flutter framework by Dart.
 
 ## My Flutter projects 🚀
 
